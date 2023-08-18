@@ -1,8 +1,12 @@
 ## Project-on-Disney-Hotstar-Content-Analysis
 ##### • Title:- Disney Hotstar Content Analysis
-##### • Tool Used:- SQL , MySQL | EDA (Exploratory Data Analysis) | Python with Python Libraries - (Pandas , Matplotlib , Seaborn) | Tableau Visualization & BI Tool
+##### • Tool Used :- 
+##### (i).   SQL , MySQL 
+##### (ii).  EDA (Exploratory Data Analysis) 
+##### (iii). Python with Python Libraries - (Pandas , Matplotlib , Seaborn) 
+##### (iv).  Tableau Visualization & BI Tool
 
-## Description :-
+## Description :
 ##### • Disney plus is one of the most popular OTT platform. It is subscription streaming service and production company. 
 ##### • It offers a library of Movies and TV Shows through distribution deals as well as own production Disney.
 ##### • Total rows = 1450 and Total columns = 12
@@ -12,7 +16,7 @@
 ##### • Mostly Content Produces in which Country.
 
 
-## Approach :-
+## Approach :
 ##### • Data Analysing by EDA (Exploratory Data Analysis) using Python with Python Libraries - (Pandas , Matplotlib , Seaborn).
 ##### • Database task completed by SQL and MySQL
 ##### • Visulaization by Tableau 
